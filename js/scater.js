@@ -2,7 +2,7 @@ console.log("hola consola");
 
 d3.json("datos.json", function(data){
         
-        console.log("hola consola5555552")
+        console.log("hola consola5XXXXXXXXXX")
     
         window.data = data
         
